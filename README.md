@@ -13,7 +13,7 @@ Tenho experiência no desenvolvimento de interfaces intuitivas e sistemas web es
 ## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,figma,nodejs,php,expressjs,nestjs,api&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,figma,nodejs,php,expressjs,apirest&perline=6" />
 </p>
 
 ---
