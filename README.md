@@ -1,6 +1,6 @@
 <!-- Banner de Boas-Vindas -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Olá,+sou+André+(AnderDev)!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Olá,+sou+o+André+(Ander.Dev)!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ## Sobre mim
