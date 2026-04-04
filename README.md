@@ -38,7 +38,7 @@ Tenho experiência no desenvolvimento de interfaces intuitivas e sistemas web es
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-judi%C3%A3o-20b63434b/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrejudiao@gmail.com)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seuportfolio.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://my-dev-portfolio-indol.vercel.app/)
 
 ---
 
